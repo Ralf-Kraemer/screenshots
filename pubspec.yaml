@@ -21,7 +21,7 @@ dependencies:
   meta: ^1.1.6
   intl: '>=0.20.1'
   tool_mobile:
-    git: https://github.com/felixgabler/tool_mobile.git
+    git: https://github.com/Ralf-Kraemer/tool_mobile.git
 
 dev_dependencies:
   test: ^1.16.8

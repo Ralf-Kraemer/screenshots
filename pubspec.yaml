@@ -14,12 +14,12 @@ dependencies:
   yaml: ^3.1.0
   resource_portable: ^3.0.0
   path: ^1.6.2
-  file: ^6.0.0
+  file: '>=6.0.0'
   archive: ^3.1.2
   platform: ^3.0.0
   process: ^4.1.0
   meta: ^1.1.6
-  intl: ^0.17.0
+  intl: '>=0.20.1'
   tool_mobile:
     git: https://github.com/felixgabler/tool_mobile.git
 

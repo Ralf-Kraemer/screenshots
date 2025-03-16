@@ -19,7 +19,7 @@ dependencies:
   platform: ^3.0.0
   process: ^5.0.3
   meta: ^1.1.6
-  intl: '>=0.20.1'
+  intl: '>=0.17.0'
   tool_mobile:
     git: https://github.com/Ralf-Kraemer/tool_mobile.git
 
